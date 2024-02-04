@@ -8,7 +8,7 @@ const phrases = [
   "I'll be very sad😕",
   "Pretty Please🥺",
   "Don't do this to me🫤",
-  "I'm gonna cry..😭",
+  "I'm gonna cry...😭",
   "You are breaking my heart😭💔",
 ];
 
