@@ -47,7 +47,7 @@ function App() {
           />
           <div className="text">Will you be my virtual valentine🌹?</div>
           <div className="text1">
-            No strings attached, I promise (only the ones to my heart) 👉👈
+            No strings attached (only the ones to my heart) 👉👈
           </div>
           <div className="both-Button">
             <button
